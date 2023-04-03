@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @michaldudko
 - 👀 I’m interested in back-end
-- 🌱 I’m currently learning Java
-- 📫 How to reach me michaldudko@vivaldi.net
+- 🌱 I’m currently learning Python
+- 📫 How to reach me - michaldudko@vivaldi.net
 
 <!---
 michaldudko/michaldudko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
